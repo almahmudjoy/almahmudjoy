@@ -5,9 +5,9 @@
 
 # Skills: C / C++/ java 
 
-- 🌱 I’m currently learning CSS, HTML, Node.js 
-- 👯 I’m looking to collaborate on github 
-- 📫 How to reach me: Email: abdullahalmahmudjoy39@gmail.com    
+## - 🌱 I’m currently learning CSS, HTML, Node.js 
+## - 👯 I’m looking to collaborate on github 
+## - 📫 How to reach me: Email: abdullahalmahmudjoy39@gmail.com    
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/almahmudjoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](almahmudjoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdullah-al-mahmud-joy-359112202/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/aal_mahmud/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Almahmud39)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/Abdullah_Al_Mahmud_Joy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/al_mahmud39)  
