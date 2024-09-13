@@ -3,7 +3,7 @@
 ![I am Programmer,I have no life.](https://scontent.fdac24-4.fna.fbcdn.net/v/t1.18169-9/23316664_1514819255233614_6190919752131314785_n.jpg?stp=dst-jpg_s640x640&_nc_cat=103&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=BRGNUAIYgc0AX-Od_fv&_nc_ht=scontent.fdac24-4.fna&oh=00_AfC7I0stUUDls8fcEW3bWQBTDRT8SdCPSPGp5q9E_Q-ycw&oe=65A7FD2A)
 
 
-# Skills: C / C++/ java 
+# Skills: C / C++/ java/ Python 
 
 ## - 🌱 I’m currently learning CSS, HTML, Node.js 
 ## - 👯 I’m looking to collaborate on github 
