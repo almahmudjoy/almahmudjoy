@@ -4,8 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+SDET+%7C+Road+to+SDET;Manual+%2B+Automation+Testing;Java+%C2%B7+Selenium+%C2%B7+TestNG+%C2%B7+API+Testing;Building+Quality+Into+Every+Release" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah%20Al%20Mahmud%20Joy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-al-mahmud-joy/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahalmahmudjoy39@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-2F81F7?style=for-the-badge&logo=vercel&logoColor=white)](https://aamjoy-builds-code.lovable.app/)
 [![Profile Views](https://komarev.com/ghpvc/?username=almahmudjoy&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS)](https://github.com/almahmudjoy)
 
 </div>
@@ -56,7 +55,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats-rickstaa.vercel.app/api?username=almahmudjoy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="410"/>
+<img src="https://github-readme-stats-rickstaa.vercel.app/api?username=almahmudjoy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="410"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=almahmudjoy&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="410"/>
 </div>
 
@@ -72,6 +71,7 @@
 
 Always open to conversations about QA strategy, test automation, or SDET roles.
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio%20Website-2F81F7?style=flat-square&logo=vercel&logoColor=white)](https://aamjoy-builds-code.lovable.app/)
 [![LinkedIn](https://img.shields.io/badge/-Abdullah%20Al%20Mahmud%20Joy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-al-mahmud-joy/)
 [![Gmail](https://img.shields.io/badge/-abdullahalmahmudjoy39%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdullahalmahmudjoy39@gmail.com)
 
