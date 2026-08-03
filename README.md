@@ -1,46 +1,78 @@
-<h1 align="center">Hi, I'm Abdullah Al Mahmud Joy 👋</h1>
-<h3 align="center">Full Stack SDET — Road to SDET</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SDET-Full%20Stack-blue" alt="SDET" />
-  <img src="https://img.shields.io/badge/QA-Manual%20%26%20Automation-green" alt="QA" />
-  <img src="https://img.shields.io/badge/Domain-FinTech%20Testing-purple" alt="FinTech" />
-  <img src="https://img.shields.io/badge/M.Sc.-CSE%20%40%20MIST-orange" alt="MSc" />
-</p>
+# Abdullah Al Mahmud Joy
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+SDET+%7C+Road+to+SDET;Manual+%2B+Automation+Testing;Java+%C2%B7+Selenium+%C2%B7+TestNG+%C2%B7+API+Testing;Building+Quality+Into+Every+Release" alt="Typing SVG" />
 
-### 🧭 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah%20Al%20Mahmud%20Joy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-al-mahmud-joy/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahalmahmudjoy39@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=almahmudjoy&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS)](https://github.com/almahmudjoy)
 
+</div>
+
+<br/>
+
+## 🧭 About Me
+
+- 🧪 **Full Stack SDET** — bridging manual QA rigor with test automation engineering
 - 🎓 M.Sc. in Computer Science & Engineering, **Military Institute of Science and Technology (MIST)**
 - 🎓 B.Sc. in Computer Science & Engineering, **Bangladesh University of Business and Technology (BUBT)**
-- 🔍 Currently sharpening skills as a **Software Development Engineer in Test**
-- 🧪 Focused on structured QA: exploratory testing, defect reporting, test case design, acceptance criteria writing
-- 💰 Recent work: manual QA testing portfolio for FinTech apps (transaction flows, commission/limit analysis, bug hunting)
-- 🌱 Building toward test automation across the full stack
+- 💰 Domain experience in **FinTech testing** — transaction flows, commission/limit validation, defect analysis
+- 🤖 Building automation frameworks with **Java, Selenium WebDriver & TestNG**
+- 🔌 Practicing **API testing** alongside UI automation for full-stack coverage
+- 📌 Every bug I file ships with evidence — screenshots, repro steps, and business-rule context
 
----
+<br/>
 
-### 🛠 Tools & Practices
+## 🛠️ Tech Stack
 
-`Manual Testing` · `Exploratory Testing` · `Test Case Design` · `Bug Reporting` · `Acceptance Criteria` · `Microsoft Excel` · `Microsoft Word` · `Git & GitHub`
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,selenium,git,github,postman,idea,vscode,jira" alt="Tech Stack" />
+</div>
 
----
+<br/>
 
-### 📌 Featured Project
+**Testing & QA:** `Manual Testing` `Exploratory Testing` `Test Automation` `API Testing` `Test Case Design` `Bug Reporting` `Acceptance Criteria`
+**Automation:** `Java` `Selenium WebDriver` `TestNG` `Postman`
+**Tools:** `Git` `GitHub` `Jira` `Microsoft Excel` `Microsoft Word`
 
-**[DMoney & EasyPay — Manual QA Testing](https://github.com/almahmudjoy/DMoney-Manual-Testing)**
-A professional QA documentation portfolio covering financial application workflows — exploratory testing, bug finding with evidence, test case writing, and acceptance criteria.
+<br/>
 
----
+## 📌 Featured Projects
 
-### 📫 Connect With Me
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah%20Al%20Mahmud%20Joy-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-al-mahmud-joy/)
-[![Email](https://img.shields.io/badge/Email-abdullahalmahmudjoy39%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abdullahalmahmudjoy39@gmail.com)
+| Project | Description |
+|---|---|
+| 🤖 [**AutomationFramework**](https://github.com/almahmudjoy/AutomationFramework) | End-to-end test automation framework build |
+| 🌐 [**SeleniumTestNG**](https://github.com/almahmudjoy/SeleniumTestNG) | Selenium WebDriver automation suite using TestNG and Java |
+| 💳 [**DMoney-API-Testing**](https://github.com/almahmudjoy/DMoney-API-Testing) | API-level testing for FinTech transaction workflows |
+| 📋 [**DMoney-Manual-Testing**](https://github.com/almahmudjoy/DMoney-Manual-Testing) | Manual QA portfolio: exploratory testing, bug reports, test case design |
 
----
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=almahmudjoy&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=almahmudjoy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=almahmudjoy&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almahmudjoy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+
+### 📫 Let's Connect
+
+Always open to conversations about QA strategy, test automation, or SDET roles.
+
+[![LinkedIn](https://img.shields.io/badge/-Abdullah%20Al%20Mahmud%20Joy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-al-mahmud-joy/)
+[![Gmail](https://img.shields.io/badge/-abdullahalmahmudjoy39%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdullahalmahmudjoy39@gmail.com)
+
+</div>
