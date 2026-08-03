@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+SDET+%7C+Road+to+SDET;Manual+%2B+Automation+Testing;Java+%C2%B7+Selenium+%C2%B7+TestNG+%C2%B7+API+Testing;Building+Quality+Into+Every+Release" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-2F81F7?style=for-the-badge&logo=vercel&logoColor=white)](https://aamjoy-builds-code.lovable.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-2F81F7?style=for-the-badge&logo=vercel&logoColor=white)](https://almahmudjoy.github.io/aamjoy-portfolio/)
 [![Profile Views](https://komarev.com/ghpvc/?username=almahmudjoy&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS)](https://github.com/almahmudjoy)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2F81F7&height=3&width=100%" width="100%"/>
@@ -97,7 +97,7 @@
 
 Always open to conversations about QA strategy, test automation, or SDET roles.
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio%20Website-2F81F7?style=flat-square&logo=vercel&logoColor=white)](https://aamjoy-builds-code.lovable.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio%20Website-2F81F7?style=flat-square&logo=vercel&logoColor=white)](https://almahmudjoy.github.io/aamjoy-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/-Abdullah%20Al%20Mahmud%20Joy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-al-mahmud-joy/)
 [![Gmail](https://img.shields.io/badge/-abdullahalmahmudjoy39%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdullahalmahmudjoy39@gmail.com)
 
