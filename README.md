@@ -32,9 +32,14 @@
 </div>
 <br/>
 
-**Testing & QA:** `Manual Testing` `Exploratory Testing` `Test Automation` `API Testing` `Test Case Design` `Bug Reporting` `Acceptance Criteria`
-**Automation:** `Java` `Selenium WebDriver` `TestNG` `Postman`
-**Tools:** `Git` `GitHub` `Jira` `Microsoft Excel` `Microsoft Word`
+**Testing & QA**
+![Manual Testing](https://img.shields.io/badge/-Manual%20Testing-1f2937?style=flat-square) ![Exploratory Testing](https://img.shields.io/badge/-Exploratory%20Testing-1f2937?style=flat-square) ![Test Automation](https://img.shields.io/badge/-Test%20Automation-1f2937?style=flat-square) ![API Testing](https://img.shields.io/badge/-API%20Testing-1f2937?style=flat-square) ![Test Case Design](https://img.shields.io/badge/-Test%20Case%20Design-1f2937?style=flat-square) ![Bug Reporting](https://img.shields.io/badge/-Bug%20Reporting-1f2937?style=flat-square) ![Acceptance Criteria](https://img.shields.io/badge/-Acceptance%20Criteria-1f2937?style=flat-square)
+
+**Automation**
+![Java](https://img.shields.io/badge/-Java-2F81F7?style=flat-square&logo=openjdk&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium%20WebDriver-2F81F7?style=flat-square&logo=selenium&logoColor=white) ![TestNG](https://img.shields.io/badge/-TestNG-2F81F7?style=flat-square) ![Postman](https://img.shields.io/badge/-Postman-2F81F7?style=flat-square&logo=postman&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/-Git-6e40c9?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-6e40c9?style=flat-square&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-6e40c9?style=flat-square&logo=jira&logoColor=white) ![Excel](https://img.shields.io/badge/-Microsoft%20Excel-6e40c9?style=flat-square&logo=microsoftexcel&logoColor=white) ![Word](https://img.shields.io/badge/-Microsoft%20Word-6e40c9?style=flat-square&logo=microsoftword&logoColor=white)
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2F81F7&height=3&width=100%" width="100%"/>
@@ -44,12 +49,12 @@
 
 <div align="center">
 
-| Project | Description |
-|---|---|
-| 🤖 [**AutomationFramework**](https://github.com/almahmudjoy/AutomationFramework) | End-to-end test automation framework build |
-| 🌐 [**SeleniumTestNG**](https://github.com/almahmudjoy/SeleniumTestNG) | Selenium WebDriver automation suite using TestNG and Java |
-| 💳 [**DMoney-API-Testing**](https://github.com/almahmudjoy/DMoney-API-Testing) | API-level testing for FinTech transaction workflows |
-| 📋 [**DMoney-Manual-Testing**](https://github.com/almahmudjoy/DMoney-Manual-Testing) | Manual QA portfolio: exploratory testing, bug reports, test case design |
+| Project | Description | |
+|---|---|---|
+| 🤖 [**AutomationFramework**](https://github.com/almahmudjoy/AutomationFramework) | End-to-end test automation framework build | ![Stars](https://img.shields.io/github/stars/almahmudjoy/AutomationFramework?style=flat-square&color=2F81F7) |
+| 🌐 [**SeleniumTestNG**](https://github.com/almahmudjoy/SeleniumTestNG) | Selenium WebDriver automation suite using TestNG and Java | ![Stars](https://img.shields.io/github/stars/almahmudjoy/SeleniumTestNG?style=flat-square&color=2F81F7) |
+| 💳 [**DMoney-API-Testing**](https://github.com/almahmudjoy/DMoney-API-Testing) | API-level testing for FinTech transaction workflows | ![Stars](https://img.shields.io/github/stars/almahmudjoy/DMoney-API-Testing?style=flat-square&color=2F81F7) |
+| 📋 [**DMoney-Manual-Testing**](https://github.com/almahmudjoy/DMoney-Manual-Testing) | Manual QA portfolio: exploratory testing, bug reports, test case design | ![Stars](https://img.shields.io/github/stars/almahmudjoy/DMoney-Manual-Testing?style=flat-square&color=2F81F7) |
 
 </div>
 
@@ -62,6 +67,10 @@
 <div align="center">
 <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=almahmudjoy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="410"/>
 <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=almahmudjoy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="410"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=almahmudjoy&theme=react-dark&hide_border=true&area=true&color=2F81F7&line=2F81F7&point=ffffff" alt="Commit Activity Graph" width="100%"/>
 </div>
 
 <div align="center">
