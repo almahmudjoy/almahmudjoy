@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2F81F7&height=200&section=header&text=Abdullah%20Al%20Mahmud%20Joy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD600&height=100&section=header&text=PRAY%20-%20CODE%20-%20SLEEP%20-%20REPEAT&fontSize=26&fontColor=111111&fontAlignY=55&fontFamily=Fira+Code" width="100%"/>
+<img src="https://raw.githubusercontent.com/almahmudjoy/almahmudjoy/main/assets/pray-code-sleep-repeat.svg" alt="Pray Code Sleep Repeat" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+SDET+%7C+Road+to+SDET;Manual+%2B+Automation+Testing;Java+%C2%B7+Selenium+%C2%B7+TestNG+%C2%B7+API+Testing;Building+Quality+Into+Every+Release" alt="Typing SVG" />
 
@@ -10,6 +10,8 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=almahmudjoy&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS)](https://github.com/almahmudjoy)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2F81F7&height=3&width=100%" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" width="500"/>
 
 </div>
 
@@ -91,16 +93,6 @@
 
 <div align="center">
 <img src="https://github-trophies.vercel.app/?username=almahmudjoy&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7" alt="GitHub Trophies" width="100%"/>
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2F81F7&height=3&width=100%" width="100%"/>
-</div>
-
-## 🗓️ Isometric Commit Calendar
-
-<div align="center">
-<img src="https://metrics.lecoq.io/almahmudjoy?template=classic&base=header&isocalendar=true&isocalendar.duration=full-year" alt="Isometric Commit Calendar" width="500"/>
 </div>
 
 <div align="center">
