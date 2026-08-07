@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2F81F7&height=200&section=header&text=Abdullah%20Al%20Mahmud%20Joy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD600&height=100&section=header&text=PRAY%20-%20CODE%20-%20SLEEP%20-%20REPEAT&fontSize=26&fontColor=111111&fontAlignY=55" width="100%"/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+SDET+%7C+Road+to+SDET;Manual+%2B+Automation+Testing;Java+%C2%B7+Selenium+%C2%B7+TestNG+%C2%B7+API+Testing;Building+Quality+Into+Every+Release" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-2F81F7?style=for-the-badge&logo=vercel&logoColor=white)](https://almahmudjoy.github.io/aamjoy-portfolio/)
@@ -13,6 +15,8 @@
 
 ## 🧭 About Me
 
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 - 🧪 **Full Stack SDET** — bridging manual QA rigor with test automation engineering
 - 🎓 M.Sc. in Computer Science & Engineering, **Military Institute of Science and Technology (MIST)**
 - 🎓 B.Sc. in Computer Science & Engineering, **Bangladesh University of Business and Technology (BUBT)**
@@ -20,6 +24,8 @@
 - 🤖 Building automation frameworks with **Java, Selenium WebDriver & TestNG**
 - 🔌 Practicing **API testing** alongside UI automation for full-stack coverage
 - 📌 Every bug I file ships with evidence — screenshots, repro steps, and business-rule context
+
+<br clear="right"/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F81F7,100:0D1117&height=3&width=100%" width="100%"/>
@@ -75,6 +81,16 @@
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2F81F7&height=3&width=100%" width="100%"/>
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=almahmudjoy&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7" alt="GitHub Trophies" width="100%"/>
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F81F7,100:0D1117&height=3&width=100%" width="100%"/>
 </div>
 
 ## 🐍 Contribution Graph
