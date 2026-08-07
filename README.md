@@ -11,8 +11,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2F81F7&height=3&width=100%" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" width="500"/>
-
 </div>
 
 ## 🧭 About Me
@@ -93,6 +91,16 @@
 
 <div align="center">
 <img src="https://github-trophies.vercel.app/?username=almahmudjoy&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7" alt="GitHub Trophies" width="100%"/>
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2F81F7&height=3&width=100%" width="100%"/>
+</div>
+
+## 🗓️ Isometric Commit Calendar
+
+<div align="center">
+<img src="https://metrics.lecoq.io/almahmudjoy?template=classic&base=header&isocalendar=true&isocalendar.duration=full-year" alt="Isometric Commit Calendar" width="500"/>
 </div>
 
 <div align="center">
