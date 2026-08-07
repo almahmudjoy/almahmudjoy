@@ -124,6 +124,16 @@
 </div>
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2F81F7&height=3&width=100%" width="100%"/>
+</div>
+
+## 📇 Profile Metrics Dashboard
+
+<div align="center">
+<img src="https://metrics.lecoq.io/almahmudjoy?template=classic&base=header,activity,community,repositories,metadata&plugin_languages=true&plugin_isocalendar=true&plugin_isocalendar.duration=full-year&plugin_calendar=true" alt="Profile Metrics Dashboard" width="500"/>
+</div>
+
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F81F7,100:0D1117&height=3&width=100%" width="100%"/>
 </div>
 
