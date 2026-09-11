@@ -27,6 +27,11 @@
 - 🔌 Practicing **API testing** alongside UI automation for full-stack coverage
 - 📌 Every bug I file ships with evidence — screenshots, repro steps, and business-rule context
 
+## 💼 Experience
+
+- **Internship:** Bangladesh Institute of Management (BIM) (September 2026 – ongoing)
+- **Teaching Assistant:** Bangladesh University of Business and Technology (BUBT) (June 2025 to December 2025)
+
 <br clear="right"/>
 
 <div align="center">
